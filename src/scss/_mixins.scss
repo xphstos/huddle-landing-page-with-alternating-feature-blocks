@@ -1,6 +1,6 @@
 @use "sass:map" as *;
 @use "./variables" as *;
-@use '@sass-collective/strip-unit' as *;
+@use './functions' as *;
 
 // Get CSS Var
 @function v($name, $fallback: null) {

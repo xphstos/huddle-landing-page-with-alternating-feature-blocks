@@ -5,4 +5,4 @@ This is a solution to the [Huddle landing page with alternating feature blocks c
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [16e28fbc8575c89d34f293da9f8d79bb33f311e0.surge.sh](https://16e28fbc8575c89d34f293da9f8d79bb33f311e0.surge.sh.com)
